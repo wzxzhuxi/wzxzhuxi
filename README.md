@@ -4,10 +4,10 @@
   <tr>
     <td>
       <ul>
-        <li>👋 Hi, I'm @wzxzhuxi, you can call me 老王 (Lao Wang).</li>
+        <li>👋 You can call me 老王 (Lao Wang).</li>
         <li>👀 I'm interested in C/C++/Rust</li>
         <li>🌱 I'm currently learning Linux driver development</li>
-        <li>📫 How to reach me @w1355457260@gmail.com or 1355457260@qq.com</li>
+        <li>📫 You can reach me @w1355457260@gmail.com or 1355457260@qq.com</li>
       </ul>
     </td>
     <td>
