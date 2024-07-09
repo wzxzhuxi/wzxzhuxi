@@ -20,10 +20,14 @@
         <li>Greatly influenced by Linus Torvalds</li>
         <li>Aspiring to become a Linux expert!</li>
         <li>Want to be a full-stack developer</li>
+        <li>I will love Lucy Valentine forever!</li>
+        <li>In the end, may there be peace in the world</li>
+        <li>may the suffering people of Gaza be saved, free Palestine!</li>
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact&theme=default" />
+      <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact">
+    </td>
     </td>
   </tr>
 </table>
