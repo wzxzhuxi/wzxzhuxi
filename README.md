@@ -24,18 +24,59 @@
 
 <br clear="right"/>
 
-
 ---
 
 ## 💼 Tech Stack & Contact
 
+
+
+
+
+
+
 <div align="center">
 
-| 💻 **Languages** | 🛠️ **Tools** | 📫 **Contact** |
-|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:w1355457260@gmail.com) [![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat-square&logo=tencent-qq&logoColor=white)](mailto:1355457260@qq.com) |
+  <table style="table-layout: fixed; width: 100%;">
+    <tr>
+      <th style="width: 33.33%;">💻 <strong>Languages</strong></th>
+      <th style="width: 33.33%;">🛠️ <strong>Tools</strong></th>
+      <th style="width: 33.33%;">📫 <strong>Contact</strong></th>
+    </tr>
+    <tr>
+            <td align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      </td>
+      <td align="center">
+        <a href="https://github.com/wzxzhuxi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://linux.do/u/wzxzhuxi/summary"><img src="https://img.shields.io/badge/Linux.do-00A98F?style=flat-square&logo=linux&logoColor=white" alt="Linux.do"></a>
+        <a href="mailto:w1355457260@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="mailto:1355457260@qq.com"><img src="https://img.shields.io/badge/QQ-EB1923?style=flat-square&logo=qq&logoColor=white" alt="QQ"></a>
+      </td>
+    </tr>
+
+  </table>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -60,7 +101,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=wzxzhuxi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wzxzhuxi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
