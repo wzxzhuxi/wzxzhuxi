@@ -84,14 +84,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wzxzhuxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wzxzhuxi&theme=tokyonight&hide_border=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wzxzhuxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wzxzhuxi&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=wzxzhuxi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&height=180" />
+<img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=wzxzhuxi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&height=180" />
 
 </div>
 
