@@ -8,8 +8,7 @@
 
 ---
 
-<p>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 ### 🚀 About Me
 
@@ -19,9 +18,6 @@
 - 💡 Inspired by **Linus Torvalds**
 - 💌 Love Lucy Valentine forever!
 - 🌍 Hoping for world peace & free Palestine
-
-</p>
-
 <br clear="right"/>
 
 ---
