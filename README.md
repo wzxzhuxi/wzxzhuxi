@@ -97,16 +97,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=wzxzhuxi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 **"Talk is cheap. Show me the code."**  
