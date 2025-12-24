@@ -2,11 +2,9 @@
 
 # ZHUXI
 
-**Linux Developer | Systems Programmer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=Linux+Developer;C%2FC%2B%2B%2FRust+Enthusiast;Aspiring+Full-Stack+Developer;Influenced+by+Linus+Torvalds" alt="Typing SVG" />
 
 `C` · `C++` · `Rust` · `Go`
-
----
 
 </div>
 
