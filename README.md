@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img align="right" width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wzxzhuxi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 ### 🚀 About Me
 
