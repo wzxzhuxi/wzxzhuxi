@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c 'import json,sys,re;d=json.load(sys.stdin);f=(d.get(\"tool_response\") or {}).get(\"filePath\") or (d.get(\"tool_input\") or {}).get(\"file_path\") or \"\";sys.exit(0) if not f.endswith(\"README.md\") else None;s=open(f,encoding=\"utf-8\").read();[print(\"warning: unbalanced <\"+t+\"> tags in \"+f+\" (\"+str(len(re.findall(\"<\"+t+r\"\\b\",s,re.I)))+\" open, \"+str(len(re.findall(\"</\"+t+\">\",s,re.I)))+\" close)\") for t in (\"div\",\"table\") if len(re.findall(\"<\"+t+r\"\\b\",s,re.I))!=len(re.findall(\"</\"+t+\">\",s,re.I))]' 2>/dev/null || true",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  }
+}
