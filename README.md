@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm zhuxi (老王)
 
-<img src="./profile/stats.svg" alt="GitHub Stats" />
-
 </div>
+
+<img align="right" width="400" src="./profile/stats.svg" alt="GitHub Stats" />
 
 ### 🚀 About Me
 

@@ -7,8 +7,9 @@ description: Edit and verify this GitHub profile README safely — layout struct
 
 ## Layout (top to bottom)
 
-1. Centered intro: `<div align="center">` containing the H1 `👋 Hi, I'm zhuxi (老王)` and the self-hosted stats card `./profile/stats.svg`.
-2. `### 🚀 About Me` — emoji bullet list.
+1. Centered header: `<div align="center">` containing the H1 `👋 Hi, I'm zhuxi (老王)`.
+2. Stats card floated right: `<img align="right" width="400" src="./profile/stats.svg" alt="GitHub Stats" />` placed just above the About Me heading so it sits on the same row as the list.
+3. `### 🚀 About Me` — emoji bullet list.
 
 Keep the README minimal: these are the only two sections, with no separators or other badges.
 
