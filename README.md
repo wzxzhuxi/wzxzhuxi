@@ -13,7 +13,7 @@
 ### About Me
 
 - Passionate about **C/C++/Rust** programming
-- Inspired by **Linus Torvalds**
+- Supporter of the **free software movement**
 - Love Lucy Valentine forever!
 - Hoping for world peace & free Palestine
 - May your life blossom like a flower
