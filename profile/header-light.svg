@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, friend.</title>
+  <desc id="desc">E Corp diamond mark spinning beside a glitching HELLO, FRIEND wordmark.</desc>
+  <style>
+    .term{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:58px;letter-spacing:7px;font-weight:600}
+    .base{fill:#15180f}
+    .splitA{fill:#0d8fa3;opacity:.3}
+    .splitB{fill:#c81f4a;opacity:.3}
+    .scr1{fill:#0d8fa3;opacity:0;animation:s1 7s steps(1,end) infinite}
+    .scr2{fill:#c81f4a;opacity:0;animation:s2 7s steps(1,end) infinite}
+    .scr3{fill:#1f6b3a;opacity:0;animation:s3 7s steps(1,end) infinite}
+    .jolt{animation:jolt 7s steps(1,end) infinite}
+    .e{fill:#15180f}
+    .glitchA{fill:#0d8fa3;opacity:.5}
+    .glitchB{fill:#c81f4a;opacity:.5}
+    .divider{stroke:#15180f;stroke-opacity:.2;stroke-width:1.5}
+    .spin3d{transform-box:fill-box;transform-origin:50% 50%;animation:spin3d 3s linear infinite}
+    .edge{stroke:#15180f;stroke-width:2.5;stroke-linecap:round;opacity:0;animation:edge 3s linear infinite}
+    @keyframes s1{0%,12%,17%,100%{opacity:0}13%,16%{opacity:.95}}
+    @keyframes s2{0%,45%,50%,100%{opacity:0}46%,49%{opacity:.95}}
+    @keyframes s3{0%,77%,82%,100%{opacity:0}78%,81%{opacity:.95}}
+    @keyframes jolt{0%,12%,17%,45%,50%,77%,82%,100%{transform:translate(0,0)}13%{transform:translate(-2px,1px)}14%{transform:translate(2px,-1px)}15%{transform:translate(-1px,0)}16%{transform:translate(0,0)}46%{transform:translate(2px,1px)}47%{transform:translate(-2px,0)}78%{transform:translate(-1px,-1px)}79%{transform:translate(1px,1px)}}
+    @keyframes spin3d{0%{transform:scaleX(1)}12.5%{transform:scaleX(.707)}25%{transform:scaleX(0)}37.5%{transform:scaleX(-.707)}50%{transform:scaleX(-1)}62.5%{transform:scaleX(-.707)}75%{transform:scaleX(0)}87.5%{transform:scaleX(.707)}100%{transform:scaleX(1)}}
+    @keyframes edge{0%,20%,30%,70%,80%,100%{opacity:0}25%,75%{opacity:.55}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.scr1,.scr2,.scr3,.splitA,.splitB{display:none}.edge{opacity:0}}
+  </style>
+  <line class="divider" x1="178" y1="36" x2="178" y2="124"/>
+  <g transform="translate(95 80)">
+    <line class="edge" x1="0" y1="-44" x2="0" y2="44"/>
+    <g class="spin3d">
+      <g transform="rotate(-45) scale(.85)">
+        <g transform="translate(-1.5,1)"><path class="glitchA" d="M -36 -36 H 36 V -14 H -16 V -6 H 20 V 8 H -16 V 16 H 36 V 36 H -36 Z"/></g>
+        <g transform="translate(1.5,-1)"><path class="glitchB" d="M -36 -36 H 36 V -14 H -16 V -6 H 20 V 8 H -16 V 16 H 36 V 36 H -36 Z"/></g>
+        <path class="e" d="M -36 -36 H 36 V -14 H -16 V -6 H 20 V 8 H -16 V 16 H 36 V 36 H -36 Z"/>
+      </g>
+    </g>
+  </g>
+  <g class="jolt">
+    <text class="term splitA" x="210" y="98" transform="translate(-1.5,0)">HELLO, FRIEND.</text>
+    <text class="term splitB" x="210" y="98" transform="translate(1.5,0)">HELLO, FRIEND.</text>
+    <text class="term base" x="210" y="98">HELLO, FRIEND.</text>
+    <text class="term scr1" x="210" y="98">H3LL0, FR13ND.</text>
+    <text class="term scr2" x="210" y="98">H#LL0, FR1@ND.</text>
+    <text class="term scr3" x="210" y="98">H%LL0, FR1?ND.</text>
+  </g>
+</svg>

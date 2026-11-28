@@ -1,7 +1,8 @@
 {
-  // Intentional profile-README style: centered-div intro, raw HTML, long badge URLs.
+  // Intentional profile-README style: centered-div intro, raw HTML, long badge URLs, "Hello, friend." heading.
   "MD001": false,
   "MD013": false,
+  "MD026": false,
   "MD033": false,
   "MD041": false
 }
